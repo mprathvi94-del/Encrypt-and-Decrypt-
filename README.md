@@ -1,12 +1,12 @@
 # Encrypt-and-Decrypt-
 
-1. Introduction
+# Introduction
 Encryption and Decryption are techniques used to secure data from unauthorized access.
 Encryption converts readable data (plaintext) into an unreadable format (ciphertext).
 Decryption converts the encrypted data back into its original form.
 These methods are widely used in cybersecurity to protect sensitive informationlike passwords, messages, and files.
 
-2.Objective
+# Objective
 To develop a system that can secure data using encryption techniques
 To convert plain text into encrypted text (ciphertext)
 To allow authorized users to decrypt data back to original form
@@ -14,7 +14,7 @@ To ensure data confidentiality and privacy
 To understand the working of cryptographic algorithms
 To provide a simple and user-friendly implementation
 
-3. Key Features
+ # Key Features
  Data security and privacy
  Use of secret keys for encryption/decryption
  Fast processing of data
@@ -22,7 +22,7 @@ To provide a simple and user-friendly implementation
  Prevents unauthorized access
  Reversible process (decrypt to original data)
 
-4.Technologies Used
+# Technologies Used
 Programming Language: Python / Java / C++
 Libraries (Python):
 cryptography
@@ -32,7 +32,7 @@ Tools:
 VS Code / PyCharm
 Operating System: Windows / Linux / macOS
 
-5.Encryption-Decryption-Project/
+# Encryption-Decryption-Project/
 ├── data/              # Input files
 ├── src/               # Source code
 │   ├── encrypt.py     # Encryption logic
@@ -43,7 +43,7 @@ Operating System: Windows / Linux / macOS
 ├── requirements.txt   # Required libraries
 └── README.md          # Project details
 
-6.How to Run the Project
+# How to Run the Project
 Step 1: Install Python
 Download and install Python from official website.
 Step 2: Install Dependencies
@@ -56,7 +56,7 @@ Step 5: Check Output
 Encrypted file → output/ folder
 Decrypted file → output/ folder
 
-7.Disclaimer
+# Disclaimer
 This project is developed for educational purposes only.
 It demonstrates basic encryption and decryption techniques.
 It should not be used for real-world security applications without proper improvements.
